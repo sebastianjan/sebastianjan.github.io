@@ -3,8 +3,3 @@ title: D365 Rapid Care
 description: Rapid care for Dynamics 365 modules and devops. 
 baseurl: "" 
 url: "https://sebastianjan.github.io"
-
-markdown: kramdown
-
-plugins:
-  - jekyll-feed
